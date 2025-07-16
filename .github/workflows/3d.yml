@@ -1,0 +1,13 @@
+name: 3-D Calendar
+on:
+  schedule: [{ cron: '0 8 * * 1' }]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: andrigerber
+          svg_out_path: ./profile-3d-contrib/profile-green-animate.svg
