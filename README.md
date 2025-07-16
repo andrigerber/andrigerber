@@ -32,7 +32,7 @@
 ### 🔭 Executive Dashboard
 <!-- Metrics SVG auto‑committed by workflow -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andrigerber/andrigerber/master/github-metrics.svg">
+  <img src="https://raw.githubusercontent.com/andrigerber/andrigerber/main/github-metrics.svg">
 </p>
 
 ### 📈 Recent Activity
