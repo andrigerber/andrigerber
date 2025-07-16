@@ -7,7 +7,6 @@
   <a href="https://linkedin.com/in/andrigerber">LinkedIn</a> •
   <a href="mailto:andri.gerber@gmx.ch">E‑mail</a> •
   <a href="https://andrigerber.dev/">Portfolio site</a> •
-  <a href="https://calendly.com/andrigerber/30min">Book a call</a>
 </p>
 
 ---
