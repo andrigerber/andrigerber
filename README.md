@@ -31,11 +31,8 @@ I’m an aspiring data scientist with a clinical background, currently completin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pandas.svg" height="40" alt="pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit-learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/statsmodels.svg" height="40" alt="Statsmodels" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ggplot2.svg" height="40" alt="ggplot2" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jupyter.svg" height="40" alt="Jupyter Notebooks" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pycharm.svg" height="40" alt="PyCharm" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudiocode.svg" height="40" alt="Visual Studio Code" />
@@ -50,16 +47,10 @@ I’m an aspiring data scientist with a clinical background, currently completin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="Neo4j" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg" height="40" alt="Apache Spark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg" height="40" alt="Apache Airflow" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/azuredatafactory.svg" height="40" alt="Azure Data Factory" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/databricks.svg" height="40" alt="Databricks" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ibmcloud.svg" height="40" alt="IBM Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftpowerbi.svg" height="40" alt="Power BI" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" height="40" alt="Microsoft Excel" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/metabase.svg" height="40" alt="Metabase" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jira.svg" height="40" alt="Jira" />
