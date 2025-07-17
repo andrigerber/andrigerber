@@ -1,6 +1,6 @@
 <!--  animated headline  -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=36BCF7&center=true&vCenter=true&width=900&lines= Hi%2C+I'm+Andri+Gerber;Data+Scientist+%7C+Generative AI; building+data+products" alt="Typing SVG">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Andri+Gerber;Data+Scientist+%7C+Generative+AI;building+data+products" alt="Typing SVG">
 </p>
 
 <p align="center">
