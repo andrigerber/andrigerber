@@ -13,14 +13,31 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 
 I’m an aspiring data scientist with a clinical background, currently completing an MSc in Applied Data Science.
+
+### AI & Data Science
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-0078D7?style=flat-square&logo=ai&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data%20Science-38B2AC?style=flat-square&logo=datascience&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-9cf?style=flat-square&logo=python&logoColor=black)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4479A1?style=flat-square&logo=matplotlib&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
 ### 🧰 Toolbox
 ![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-%2300A000?logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%230db7ed?logo=docker&logoColor=white)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+### Tools & Methodologies
+![Agile](https://img.shields.io/badge/-Agile-47A248?style=flat-square&logo=agile&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ### 💻 Stack
 
@@ -56,7 +73,8 @@ I’m an aspiring data scientist with a clinical background, currently completin
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jira.svg" height="40" alt="Jira" />
 </div>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats   
+<img src="https://komarev.com/ghpvc/?username=andrigerber&style=for-the-badge&color=blue" alt=""/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrigerber&show_icons=true&theme=tokyonight&include_all_commits=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrigerber&layout=compact&theme=tokyonight" height="165">
@@ -67,11 +85,7 @@ I’m an aspiring data scientist with a clinical background, currently completin
   <img src="https://github-profile-trophy.vercel.app/?username=andrigerber&theme=gruvbox&row=1&column=7">
 </p>
 
-### 🔭 Executive Dashboard
-<!-- Metrics SVG auto‑committed by workflow -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andrigerber/andrigerber/main/github-metrics.svg">
-</p>
+
 
 ### 📈 Recent Activity
 <p align="center">
