@@ -77,14 +77,3 @@ I’m an aspiring data scientist with a clinical background, currently completin
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrigerber&theme=github">
 </p>
-
-### 🎮 Contribution Fun
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andrigerber/andrigerber/output/github-contribution-grid-snake.svg" alt="snake animation">
-  <br/>
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3‑D contribution calendar">
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=andrigerber&label=Profile+Views&color=6&icon=5&pretty=true">
-</p>
