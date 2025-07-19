@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/andrigerber">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/andri-gerber-348816214/">LinkedIn</a> •
   <a href="mailto:andri.gerber@gmx.ch">E‑mail</a> •
   <a href="https://andrigerber.dev/">Portfolio site</a>
 </p>
