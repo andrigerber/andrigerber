@@ -76,8 +76,8 @@ I’m an aspiring data scientist with a clinical background, currently completin
 ### 📊 GitHub Stats   
 <img src="https://komarev.com/ghpvc/?username=andrigerber&style=for-the-badge&color=blue" alt=""/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrigerber&show_icons=true&theme=tokyonight&include_all_commits=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrigerber&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrigerber&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrigerber&layout=compact&theme=tokyonight&cache_seconds=86400" height="165" alt="Top languages"/>
 </p>
 
 ### 🏆 Trophy Cabinet
